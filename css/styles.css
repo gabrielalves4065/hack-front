@@ -1,0 +1,794 @@
+
+body{
+	height:100%;
+
+}
+.body_position { 
+	width:1440px;
+	height:100%;
+	position:absolute;
+	overflow:hidden;
+
+}
+.body_campos { 
+	background-color:rgba(255, 255, 255, 1);
+	opacity:0.5;
+	width:1440px;
+	height:100%;
+	position:absolute;
+	left:0px;
+	top:176px;
+}
+.header2 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.5);
+	width:1440px;
+	height:58px;
+	position:absolute;
+	left:0px;
+	top:118px;
+}
+.header1 { 
+	background-color:rgba(0, 150.0000062584877, 87.00000241398811, 1);
+	width:1440px;
+	height:120px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.logo { 
+	width:213px;
+	height:76px;
+	position:absolute;
+	left:71px;
+	top:21px;
+	background-image:url("../images/Unimed.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.menu { 
+	width:199px;
+	height:56px;
+	position:absolute;
+	left:71px;
+	top:120px;
+}
+.menu2 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:199px;
+	height:56px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.menu_icon { 
+	width:130.78392028808594px;
+	height:22.92964744567871px;
+	position:absolute;
+	left:34px;
+	top:17.000001907348633px;
+}
+.icon_casa { 
+	width:29.723617553710938px;
+	height:22.92964744567871px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.icon_casa img{
+	width: 21.723618px;
+	height: 22.92964744567871px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.icon_chat { 
+	width:25.477386474609375px;
+	height:22.92964744567871px;
+	position:absolute;
+	left:54.35175704956055px;
+	top:0.0000018785946167554357px;
+}
+
+.icon_chat img{ 
+	width: 21.723618px;
+	height: 22.92964744567871px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.icon_menu { 
+	width:26.32663345336914px;
+	height:22.92964744567871px;
+	position:absolute;
+	left:104.45728302001953px;
+	top:0.0000018785946167554357px;
+}
+
+.icon_menu img{ 
+	width: 21.723618px;
+	height: 22.92964744567871px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.body_campos2 { 
+	width:420px;
+	height:631px;
+	position:absolute;
+	left:510px;
+	top:216px;
+}
+.icon_avatar { 
+	border-radius:500px;
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:263px;
+	height:263px;
+	position:absolute;
+	left:78px;
+	top:0px;
+}
+#exampleInputEmail1 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1) !important;
+	opacity:0.5;
+	width:420px;
+	height:84px;
+	position:absolute;
+	left:0px;
+	top:295px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+}
+#exampleInputPassword1 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	opacity:0.5;
+	width:420px;
+	height:76px;
+	position:absolute;
+	left:0px;
+	top:411px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+}
+.btn-primary { 
+	background-color:rgba(0, 150.0000062584877, 87.00000241398811, 1);
+	width:420px;
+	height:76px;
+	position:absolute;
+	left:0px;
+	top:519px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+	padding: 6%;
+}
+
+.btn-primary :hover{ 
+	background-color: #4CA579 !important;
+}
+
+.header_text { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:180px;
+	height:44px;
+	position:absolute;
+	left:703px;
+	top:128px;
+	font-family:Open Sans;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+
+.tabela { 
+	width:860px;
+	height:711.2429809570312px;
+	position:absolute;
+	left:400px;
+	top:525.7570190429688px;
+}
+
+.colunas { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.5);
+	width:860px;
+	height:657.5089721679688px;
+	position:absolute;
+	left:0px;
+	top:53.73401641845703px;
+}
+
+.menu3 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:28.332481384277344px;
+	position:absolute;
+	left:0px;
+	top:612.5678100585938px;
+}
+
+.header_total { 
+	color:rgba(25.50000037997961, 24.65000119060278, 24.65000119060278, 1);
+	width:56.15120315551758px;
+	height:19.539642333984375px;
+	position:absolute;
+	left:12.806396484375px;
+	top:617.4526977539062px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.header_tabela { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:53.73401641845703px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.linha_col_total1 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:2px;
+	height:558.833740234375px;
+	position:absolute;
+	left:284.4615478515625px;
+	top:53.73401641845703px;
+}
+.linha_col_total2 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:2px;
+	height:558.833740234375px;
+	position:absolute;
+	left:573.0576171875px;
+	top:53.73401641845703px;
+}
+.linha_col_tabela1 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:2px;
+	height:79.13555145263672px;
+	position:absolute;
+	left:284.4615478515625px;
+	top:632.107421875px;
+}
+.linha_col_tabela2 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:2px;
+	height:79.13555145263672px;
+	position:absolute;
+	left:573.0576171875px;
+	top:632.107421875px;
+}
+.linha_cap_tab4 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:311.65728759765625px;
+}
+.linha_cap_tab1 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:182.69564819335938px;
+}
+.linha_cap_tab5 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:440.618896484375px;
+}
+.linha_cap_tab9 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:96.72122192382812px;
+}
+.linha_cap_tab6 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:354.64447021484375px;
+}
+.linha_cap_tab2 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:225.68287658691406px;
+}
+.linha_cap_tab7 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:483.60614013671875px;
+}
+.linha_cap_tab0 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:139.70843505859375px;
+}
+.linha_cap_tab8 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:397.6317138671875px;
+}
+.linha_cap_tab3 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:268.67010498046875px;
+}
+.linha_cap_tab19 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:526.5933837890625px;
+}
+.linha_cap_tab10 { 
+	background-color:rgba(172.00000494718552, 223.00000190734863, 63.000000044703484, 1);
+	width:860px;
+	height:2px;
+	position:absolute;
+	left:0px;
+	top:569.58056640625px;
+}
+.menu4 { 
+	width:199px;
+	height:189px;
+	position:absolute;
+	left:71px;
+	top:196px;
+}
+.body_menu4 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.5);
+	width:199px;
+	height:152px;
+	position:absolute;
+	left:0px;
+	top:37px;
+}
+.menu4_linha1 { 
+	background-color:rgba(179.56249594688416, 173.57707232236862, 173.57707232236862, 1);
+	width:199px;
+	height:1.033588171005249px;
+	position:absolute;
+	left:0px;
+	top:73.51911163330078px;
+}
+.menu4_linha2 { 
+	background-color:rgba(180.00000447034836, 174.00000482797623, 174.00000482797623, 1);
+	width:199px;
+	height:1.033588171005249px;
+	position:absolute;
+	left:0px;
+	top:112.399658203125px;
+}
+.menu4_linha3 { 
+	background-color:rgba(180.00000447034836, 174.00000482797623, 174.00000482797623, 1);
+	width:199px;
+	height:1.033588171005249px;
+	position:absolute;
+	left:0px;
+	top:150.884033203125px;
+}
+.menu4_cont1 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:117.05882263183594px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:46.8876953125px;
+	top:160.1863250732422px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.menu4_cont2 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:100.03208923339844px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:44.6951904296875px;
+	top:44.44429397583008px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.menu4_cont3 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:133.02139282226562px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:42.56684875488281px;
+	top:83px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.menu4_titulo { 
+	background-color:rgba(0, 150.0000062584877, 87.00000241398811, 1);
+	width:199px;
+	height:36.17558670043945px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.menu4_titulo_texto { 
+	color:rgba(255, 255, 255, 1);
+	width:51.08021545410156px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:8.268704414367676px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e8_65 { 
+	background-color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:21.283422470092773px;
+	height:14.470233917236328px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:163.28709411621094px;
+}
+.e8_67 { 
+	background-color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:19.155080795288086px;
+	height:12.403058052062988px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:48.57863998413086px;
+}
+.menu4_cont4 { 
+	width:98.40107727050781px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:121.77561950683594px;
+}
+.menu4_cont5 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:73.42781066894531px;
+	height:20.671762466430664px;
+	position:absolute;
+	left:24.9732666015625px;
+	top:0px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e8_61 { 
+	background-color:rgba(0, 0, 0, 0);
+	width:17.026737213134766px;
+	height:16.537410736083984px;
+	position:absolute;
+	left:0px;
+	top:3.140862464904785px;
+}
+.e8_62 { 
+	background-color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:17.026737213134766px;
+	height:16.537410736083984px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.header_tab_titulo1 { 
+	color:rgba(25.50000037997961, 24.65000119060278, 24.65000119060278, 1);
+	width:41px;
+	height:20px;
+	position:absolute;
+	left:515px;
+	top:545px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.header_tab_titulo2 { 
+	color:rgba(25.50000037997961, 24.65000119060278, 24.65000119060278, 1);
+	width:186px;
+	height:22px;
+	position:absolute;
+	left:729px;
+	top:544px;
+	font-family:Open Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.header_tab_titulo3 { 
+	color:rgba(25.50000037997961, 24.65000119060278, 24.65000119060278, 1);
+	width:112px;
+	height:22px;
+	position:absolute;
+	left:1054px;
+	top:544px;
+	font-family:Open Sans;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.not_alerta { 
+	background-color:rgba(231.00000143051147, 85.0000025331974, 85.0000025331974, 1);
+	width:5px;
+	height:18px;
+	position:absolute;
+	left:247px;
+	top:280px;
+}
+.menu5 { 
+	width:311px;
+	height:20px;
+	position:absolute;
+	left:1058px;
+	top:18px;
+}
+.clinica_nome { 
+	color:rgba(255, 255, 255, 1);
+	width:73px;
+	height:20px;
+	position:absolute;
+	left:148px;
+	top:0px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.sair { 
+	color:rgba(255, 255, 255, 1);
+	width:32px;
+	height:20px;
+	position:absolute;
+	left:279px;
+	top:0px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.suporte1 { 
+	width:90px;
+	height:20px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.suporte2 { 
+	color:rgba(255, 255, 255, 1);
+	width:67px;
+	height:20px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.suporte3 { 
+	width:16px;
+	height:16px;
+	position:absolute;
+	left:74px;
+	top:4px;
+}
+.suporte4 { 
+	border-radius:500px;
+	background-color:rgba(255, 255, 255, 1);
+	width:16px;
+	height:16px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.suporte5 { 
+	background-color:rgba(0, 150.0000062584877, 87.00000241398811, 1);
+	width:5.333333492279053px;
+	height:8.88888931274414px;
+	position:absolute;
+	left:5.333333492279053px;
+	top:3.555555582046509px;
+}
+.alerta_not_pagina1 { 
+	box-shadow:4px 4px 4px rgba(0, 0, 0, 0.25);
+	width:874px;
+	height:202px;
+	position:absolute;
+	left:395px;
+	top:196px;
+}
+.alerta_not_pagina2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:874px;
+	height:202px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+}
+.alerta_not_pagina3 { 
+	width:858px;
+	height:202px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.alerta_not_pagina4 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:626px;
+	height:24px;
+	position:absolute;
+	left:147px;
+	top:18px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.alerta_not_pagina5 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	opacity:0.5;
+	width:23px;
+	height:11px;
+	position:absolute;
+	left:49px;
+	top:16px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:8px;
+	letter-spacing:0;
+}
+.alerta_not_pagina6 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	width:626px;
+	height:24px;
+	position:absolute;
+	left:147px;
+	top:58px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.alerta_not_pagina7 { 
+	color:rgba(231.00000143051147, 85.0000025331974, 85.0000025331974, 1);
+	width:247px;
+	height:20px;
+	position:absolute;
+	left:147px;
+	top:154px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.alerta_not_pagina8 { 
+	background-color:rgba(230.56249290704727, 85.50026088953018, 85.50026088953018, 1);
+	width:45px;
+	height:202px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.alerta_not_pagina9 { 
+	color:rgba(39.31250050663948, 36.03646069765091, 36.03646069765091, 1);
+	opacity:0.5;
+	width:47px;
+	height:12px;
+	position:absolute;
+	left:49px;
+	top:4px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:8px;
+	letter-spacing:0;
+}
+.alerta_not_pagina10 { 
+	background-image:url("../images/exclamacao.png");
+	width:8px;
+	height:28px;
+	position:absolute;
+	left:19px;
+	top:16px;
+}
+.alerta_not_pagina11 { 
+	width:25px;
+	height:24px;
+	position:absolute;
+	left:833px;
+	top:16px;
+}
+.alerta_not_pagina12 { 
+	width:10.08728313446045px;
+	height:15.6298828125px;
+	position:absolute;
+	left:402px;
+	top:156px;
+}
+.listaClinica { 
+	width:310px;
+	height:44.349649px;
+	position:absolute;
+	left:400px;
+	top:409.825165px;
+	box-shadow: 4px 4px 4px rgb(0 0 0 / 25%);
+  background-color: rgba(236.00000113248825, 236.00000113248825, 236.00000113248825, 1);
+}
+.campoData { 
+	width:310px;
+	height:44.34964942932129px;
+	position:absolute;
+	left:400px;
+	top:472.8251647949219px;
+	background-color: rgba(236.00000113248825, 236.00000113248825, 236.00000113248825, 1);
+
+}
+.icon_olho { 
+	width:19.155080795288086px;
+	height:12.403058052062988px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:48.57863998413086px;
+}
+.icon_not { 
+	width:19px;
+	height:22px;
+	position:absolute;
+	left:88px;
+	top:279px;
+}
+.icon_estoque { 
+	width:17.026737213134766px;
+	height:16.537410736083984px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.icon_fatu { 
+	width:21.283422470092773px;
+	height:14.470233917236328px;
+	position:absolute;
+	left:17.0267333984375px;
+	top:163.28709411621094px;
+}
